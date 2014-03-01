@@ -1,6 +1,6 @@
 mkvswitch
 =========
-Script for mass-switching default tracks in MKV containers.
+Console tool for mass-switching default tracks in MKV containers.
 
 ##### Requirements
 * Python 2.7+
